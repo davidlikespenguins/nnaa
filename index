@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+
+<head>
+<script src=“/assets/jquery.js”></script>
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,500' rel='stylesheet' type='text/css'>
+<style>
+
+html {
+	min-height: 100%;
+}
+
+body {
+background: linear-gradient (bottom, rgba(210, 90, 100, .7), rgba(0, 175, 100, .5));margin: 0 auto;
+background: -webkit-linear-gradient(bottom, rgba(210, 90, 100, .7), rgba(0, 175, 100, .5));
+background: -moz-linear-gradient(bottom, rgba(210, 90, 100, .7), rgba(0, 175, 100, .5));font-family: 'Roboto', sans-serif;
+font-family: 'Roboto', sans-serif;
+text-align: center;
+color: white;
+
+margin: 0 auto;
+}
+h1 {
+font-family: 'Roboto', sans-serif;
+text-align: center;
+font-size: 45px;
+color: white;
+margin: 25px 0 -55px 0;
+}
+p {
+color: rgba(0, 0, 0, 1);
+text-align: justify;
+line-height: 25px;
+padding: 15px 0 14px 0;
+font-size: 45px;
+
+
+margin: 0;
+height: 25px;
+}
+div {
+margin: 20px 12px 0 12px;
+}
+.one {
+background-image: url(“http://www.clipartbest.com/cliparts/4ib/4Bd/4ib4Bdbig.png”);
+}
+.two {
+background-image: url (“”)
+}
+
+</style>
+
+<body>
+<h1>Joy’s sample webpage</h1>
+<div class=“one”>
+<p>This is just a sample website, don’t read this, it doesn’t matter.</p>
+
+<div class=“two”>
+<p>Another sample. Just here to display text, not intended for actual reading</p>
+
+</body>
+</html>
